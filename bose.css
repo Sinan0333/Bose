@@ -1,43 +1,50 @@
-body{
+body {
     background-color: #fff;
-    margin:0;
+    margin: 0;
 }
-*{
+
+* {
     box-sizing: border-box;
 }
-.header{
+
+.header {
     width: 100%;
     height: 99px;
     background-color: black;
     display: flex;
-    
+
 }
-.headlogo{
+
+.headlogo {
     width: 220px;
     height: 105px;
     /* background-color: blue; */
 }
-.boselogo{
+
+.boselogo {
     width: 77px;
     float: right;
 }
-.headmenu{
+
+.headmenu {
     /* background-color: blueviolet; */
     width: 700px;
     height: 20px;
     margin-top: 60px;
     margin-left: 100px;
 }
-.headmenubt1{
+
+.headmenubt1 {
     background-color: #fff;
-    font-family: BoseText,Verdana,sans-serif;
+    font-family: BoseText, Verdana, sans-serif;
     border-radius: 20px;
     font-weight: 540;
     font-size: 12px;
-    
+
 }
-.otherbt{
-    background-color:transparent;
+
+.otherbt {
+    background-color: transparent;
     /* font-family: BoseText,Verdana,sans-serif; */
     border-radius: 20px;
     font-weight: 640;
@@ -45,28 +52,31 @@ body{
     margin-left: 24px;
     color: #fff;
     border: transparent;
-    
+
 }
-.headmenubt1:hover{
+
+.headmenubt1:hover {
     font-weight: 600;
 
 }
-.otherbt:hover{
-   color: #8c8c8c;
-   letter-spacing: .3px;
+
+.otherbt:hover {
+    color: #8c8c8c;
+    letter-spacing: .3px;
 }
 
-.inputboxdiv{
+.inputboxdiv {
     width: 285px;
     height: 24px;
-    background-color:#fff;
+    background-color: #fff;
     margin-left: 865px;
     margin-top: 15.5px;
     border-radius: 30px;
     position: absolute;
 
 }
-.inputmod{
+
+.inputmod {
     width: 220px;
     height: 24px;
     margin-left: 15px;
@@ -74,47 +84,52 @@ body{
     border: transparent;
     padding-top: 2px;
 }
-.inputboxdiv i{
+
+.inputboxdiv i {
     margin-left: 20px;
     font-size: 16px;
 }
-.suuportbt{
-   height: 30px;
-   position: absolute;
-   margin-left: 1180px;
-   margin-top: 9px;
-   background-color: #0d0d0d;
-   color: #fff;
-   font-size: 12px;
-   padding-left: 0%;
-   border: transparent;
-   justify-content: space-evenly;
+
+.suuportbt {
+    height: 30px;
+    position: absolute;
+    margin-left: 1180px;
+    margin-top: 9px;
+    background-color: #0d0d0d;
+    color: #fff;
+    font-size: 12px;
+    padding-left: 0%;
+    border: transparent;
+    justify-content: space-evenly;
 }
-.storebt{
+
+.storebt {
     height: 30px;
     position: absolute;
     margin-top: 9px;
-    background-color:#0d0d0d;
+    background-color: #0d0d0d;
     color: #fff;
     font-size: 12px;
     padding-left: 0%;
     margin-left: 1280px;
     border: transparent;
 }
-.header i{
+
+.header i {
     font-size: 19px;
-   
-   
+
+
 }
 
-.cont1{
+.cont1 {
     width: 100%;
     height: 490px;
     background-color: brown;
     display: flex;
     position: relative;
 }
-.cont1heading{
+
+.cont1heading {
     width: 100%;
     height: 37px;
     position: absolute;
@@ -123,14 +138,16 @@ body{
     /* background-color: chartreuse */
 
 }
-.headtextmod{
+
+.headtextmod {
     font-size: 33px;
     font-weight: 800;
     color: #fff;
     margin-left: 870px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
-.cont1heading2{
+
+.cont1heading2 {
     width: 100%;
     height: 25px;
     position: absolute;
@@ -141,113 +158,129 @@ body{
     /* background-color: chartreuse */
 
 }
-.headtextmod2{
-font-size: 16px;
-color: #fff;
-margin-left: 910px;
+
+.headtextmod2 {
+    font-size: 16px;
+    color: #fff;
+    margin-left: 910px;
 }
-.headbt{
+
+.headbt {
     width: 100%;
     height: 38px;
     margin-top: 272px;
     /* background-color: aqua; */
     position: absolute;
 }
-.headbtmod{
+
+.headbtmod {
     font-size: 15px;
     border-radius: 30px;
-    font-weight:600;
+    font-weight: 600;
     width: 153px;
     height: 38px;
     margin-left: 810px;
     background-color: #fff;
 }
-.headbt2mod{
+
+.headbt2mod {
     font-size: 15px;
     border-radius: 30px;
-    font-weight:600;
+    font-weight: 600;
     width: 170px;
     height: 38px;
     margin-left: 100px;
     background-color: #fff;
 }
-.headbt2mod:hover{
-    background-color: #242424;
-    color: #fff;
-}
-.headbtmod:hover{
+
+.headbt2mod:hover {
     background-color: #242424;
     color: #fff;
 }
 
-.cont2{
+.headbtmod:hover {
+    background-color: #242424;
+    color: #fff;
+}
+
+.cont2 {
     /* background-color: brown; */
     width: 100%;
     height: 560px;
- 
-    
+
+
 }
-.cont2heading{
+
+.cont2heading {
     /* background-color: blue; */
     width: 100%;
     height: 65px;
     display: flex;
 }
-.cont2headingmod{
+
+.cont2headingmod {
     margin-left: 125px;
     font-size: 30px;
     font-weight: 300;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     margin-top: 15px;
 }
-.cont2imgdiv{
+
+.cont2imgdiv {
     height: 276px;
     width: 100%;
     /* background-color: blueviolet; */
     display: flex;
 }
-.con2blankdiv{
+
+.con2blankdiv {
     height: 218px;
     width: 95px;
     /* background-color: burlywood; */
 }
-.cont2imgs{
+
+.cont2imgs {
     height: 276px;
     width: 276px;
-    background-color:#f8f8f8;
+    background-color: #f8f8f8;
     margin-left: 33px;
-    
+
 }
-.cont2imgalign{
+
+.cont2imgalign {
     width: 235px;
     height: 220px;
     padding-top: 55px;
     padding-left: 37px;
-    
+
 }
-.cont2aboutimgdiv{
+
+.cont2aboutimgdiv {
     width: 100%;
     height: 219px;
     /* background-color: darkgrey; */
     display: flex;
 }
-.aboutimg{
+
+.aboutimg {
     height: 101.6px;
     width: 276px;
     margin-left: 33px;
     /* background-color: cornflowerblue; */
     /* display: flex; */
     display: block;
-    
-    
+
+
 }
-.editiondiv{
+
+.editiondiv {
     width: 276px;
     height: 20px;
     background-color: #666;
     position: absolute;
 }
-.editiontext{
+
+.editiontext {
     font-size: 10px;
     margin-top: 6px;
     text-align: center;
@@ -255,51 +288,57 @@ margin-left: 910px;
     letter-spacing: 1px;
 
 }
-.aboutimgtext1and4{
+
+.aboutimgtext1and4 {
     font-size: 14.7px;
-   margin-left: 10px;
-   margin-top: 33px;
-   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    
+    margin-left: 10px;
+    margin-top: 33px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
 }
-.aboutimgtext{
+
+.aboutimgtext {
     margin-top: 14.2px;
     font-size: 14.7px;
     margin-left: 10px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-.aboutimgtext2{
+
+.aboutimgtext2 {
     color: #666;
     font-size: 13px;
     font-weight: 400;
-   margin-top: -20px;
-   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-   margin-left: 10px;
-    
+    margin-top: -20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 10px;
+
 }
-.cont3{
+
+.cont3 {
     height: 488px;
     width: 100%;
-    /* background-color: brown; */
     display: flex;
-   position: relative;
+    position: relative;
 }
-.cont3textandbtdiv{
+
+.cont3textandbtdiv {
     width: 576px;
     height: 196px;
     /* background-color: blueviolet; */
-   position: absolute;
-   margin-left: 150px;
-   margin-top: 155px;
-   
+    position: absolute;
+    margin-left: 150px;
+    margin-top: 155px;
+
 }
-.cont3text1{
+
+.cont3text1 {
     color: #fff;
     text-align: center;
     margin-top: 0;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-.cont3text2{
+
+.cont3text2 {
     color: #fff;
     text-align: center;
     margin-top: -10px;
@@ -307,11 +346,12 @@ margin-left: 910px;
     font-size: 15.5px;
     letter-spacing: 2px;
     font-size: 14.5px;
-    
-    
-    
+
+
+
 }
-.cont3bt{
+
+.cont3bt {
     font-weight: 800;
     border-radius: 30px;
     width: 170px;
@@ -321,20 +361,23 @@ margin-left: 910px;
     color: #242424;
     font-size: 14.5px;
     background-color: #fff;
-    
+
 }
-.cont3bt:hover{
-    background-color:#242424 ;
+
+.cont3bt:hover {
+    background-color: #242424;
     color: #fff;
 }
-.cont4{
+
+.cont4 {
     height: 488px;
     width: 100%;
     display: flex;
     background-color: brown;
     position: relative;
 }
-.cont4textandbtdiv{
+
+.cont4textandbtdiv {
     height: 178.6px;
     width: 429.5px;
     /* background-color: chocolate; */
@@ -342,23 +385,26 @@ margin-left: 910px;
     margin-left: 886px;
     margin-top: 163px;
 }
-.cont4text1{
-    color:black;
+
+.cont4text1 {
+    color: black;
     text-align: center;
     margin-top: 0;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     letter-spacing: 1px;
     font-weight: 900;
 }
-.cont4text2{
-    color:black;
+
+.cont4text2 {
+    color: black;
     text-align: center;
     margin-top: -10px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 15px;
     letter-spacing: 2px;
 }
-.cont4bt{
+
+.cont4bt {
     font-weight: 800;
     border-radius: 30px;
     width: 170px;
@@ -369,18 +415,21 @@ margin-left: 910px;
     font-size: 14.5px;
     background-color: #242424;
 }
-.cont4bt:hover{
+
+.cont4bt:hover {
     background-color: #fff;
-    color:#242424;
+    color: #242424;
 }
-.cont5{
+
+.cont5 {
     width: 100%;
     height: 488px;
     background-color: coral;
     display: flex;
     position: relative;
 }
-.cont5textandbtdiv{
+
+.cont5textandbtdiv {
     width: 429.5px;
     height: 215.5px;
     /* background-color: cornflowerblue; */
@@ -389,7 +438,8 @@ margin-left: 910px;
     margin-top: 145px;
 
 }
-.cont5text1{
+
+.cont5text1 {
     color: #fff;
     text-align: center;
     margin: 0;
@@ -397,14 +447,16 @@ margin-left: 910px;
     font-size: 14.5px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
-.cont5text2{
+
+.cont5text2 {
     color: #fff;
     text-align: center;
     margin-top: 0;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin-top: 16px;
 }
-.cont5bt{
+
+.cont5bt {
     font-weight: 800;
     border-radius: 30px;
     width: 170px;
@@ -415,40 +467,46 @@ margin-left: 910px;
     font-size: 14.5px;
     background-color: #fff;
 }
-.cont5bt:hover{
-    background-color:#242424 ;
+
+.cont5bt:hover {
+    background-color: #242424;
     color: #fff;
 }
-.cont6{
+
+.cont6 {
     height: 488px;
     width: 100%;
     display: flex;
     background-color: darkkhaki;
 }
-.cont6textandbtdiv{
+
+.cont6textandbtdiv {
     position: absolute;
     width: 586px;
-    height:193px ;
-    background-color:#fff;
+    height: 193px;
+    background-color: #fff;
     margin-left: 730px;
     align-self: center;
 }
-.cont6text1{
+
+.cont6text1 {
     font-weight: 900;
     font-size: 47px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
     margin-top: 15px;
     letter-spacing: -1px;
-    
+
 }
-#cont6text2{
-text-align: center;
-margin-top: -20px;
-font-size: 15.5px;
-font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+#cont6text2 {
+    text-align: center;
+    margin-top: -20px;
+    font-size: 15.5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
-.cont6bt{
+
+.cont6bt {
     font-weight: 800;
     border-radius: 30px;
     width: 170px;
@@ -460,17 +518,20 @@ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida San
     background-color: #242424;
     align-self: center;
 }
-.cont6bt:hover{
+
+.cont6bt:hover {
     background-color: #fff;
     color: black;
 }
-.cont7{
+
+.cont7 {
     height: 488px;
     width: 100%;
     background-color: darkseagreen;
     display: flex;
 }
-.cont7textandbt{
+
+.cont7textandbt {
     width: 429px;
     height: 178.6px;
     /* background-color: gray; */
@@ -478,7 +539,8 @@ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida San
     margin-left: 883px;
     align-self: center;
 }
-.cont7text1{
+
+.cont7text1 {
     color: #fff;
     text-align: center;
     margin: 0;
@@ -487,7 +549,8 @@ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida San
     margin-top: 7px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
-.cont7bt{
+
+.cont7bt {
     font-weight: 800;
     border-radius: 30px;
     width: 170px;
@@ -498,48 +561,56 @@ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida San
     font-size: 14.5px;
     background-color: #fff;
 }
-.cont7bt:hover{
-    background-color: #242424 ;
+
+.cont7bt:hover {
+    background-color: #242424;
     color: #fff;
 }
-.cont8{
+
+.cont8 {
     height: 96px;
     width: 100%;
     background-color: #191919;
-    
+
 }
-.cont8ineerdiv{
+
+.cont8ineerdiv {
     width: 1045px;
     height: 100%;
     margin-left: 207px;
     display: flex;
 }
-.cont8ineerdiv i{
-    color:#595959;
+
+.cont8ineerdiv i {
+    color: #595959;
     margin-top: 35px;
-    font-size: 26px; 
-     margin-right: 40px;
+    font-size: 26px;
+    margin-right: 40px;
 }
-.cont8ineerdiv p{
-   margin-left:829px ;
+
+.cont8ineerdiv p {
+    margin-left: 829px;
     margin-top: 40px;
-    color:#7F7F7F;
+    color: #7F7F7F;
     font-size: 14px;
 }
-.iconfloat{
-   font-size: 26px;
+
+.iconfloat {
+    font-size: 26px;
     margin-top: 40px;
-   margin-left: -120px;
-   color:#595959;
+    margin-left: -120px;
+    color: #595959;
 }
-.cont9{
+
+.cont9 {
     width: 1060px;
     height: 375px;
     background-color: #0d0d0d;
     margin-left: 197px;
     display: flex;
 }
-.cont9innerdiv{
+
+.cont9innerdiv {
     width: 300px;
     height: 100%;
     background-color: #0d0d0d;
@@ -547,9 +618,10 @@ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida San
     display: flex;
     flex-direction: column;
     margin-right: 57px;
-    
+
 }
-.cont9text1{
+
+.cont9text1 {
     color: #fff;
     font-weight: 900;
     font-size: 13px;
@@ -558,7 +630,8 @@ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida San
     margin-top: 12px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
-.cont9text2{
+
+.cont9text2 {
     color: #8c8c8c;
     text-decoration: none;
     margin-top: 12px;
@@ -567,25 +640,30 @@ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida San
     margin-left: 5px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
-.cont9outerdiv{
+
+.cont9outerdiv {
     width: 100%;
     height: 375px;
     background-color: #0d0d0d;
 }
-.cont9text2:hover{
+
+.cont9text2:hover {
     text-decoration: underline;
     color: #fff;
 }
-.cont9text1:hover{
+
+.cont9text1:hover {
     text-decoration: underline;
 }
-.cont10{
+
+.cont10 {
     height: 90px;
     width: 100%;
     background-color: #0d0d0d;
     display: flex;
 }
-#cont10text1{
+
+#cont10text1 {
     color: #fff;
     font-weight: 800;
     font-size: 14.5px;
@@ -594,7 +672,8 @@ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida San
     margin-left: 375px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
-#cont10text2{
+
+#cont10text2 {
     color: #8c8c8c;
     text-decoration: none;
     font-size: 14.5px;
@@ -603,33 +682,38 @@ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida San
     font-weight: 600;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
-#cont10text2:hover{
+
+#cont10text2:hover {
     color: #fff;
     text-decoration: underline;
 }
-.cont11{
+
+.cont11 {
     width: 100%;
     height: 106px;
-    background-color:#0d0d0d;
+    background-color: #0d0d0d;
     display: flex;
 }
-#footerlogomrg{
+
+#footerlogomrg {
     margin-left: 198px;
 }
-.line{
+
+.line {
     margin-top: 0%;
     margin-bottom: 120px;
-     width: 910px;
+    width: 910px;
     margin-left: -140px;
     border-top: 9px;
     background-color: #595959;
 }
-#cont11text{
+
+#cont11text {
     color: #666;
     font-size: 13px;
     margin-top: 40px;
     margin-left: 55px;
     /* font-weight: 600; */
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-   
+
 }
